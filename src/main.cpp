@@ -19,7 +19,8 @@
   power-up/reset: that enters download mode.
 */
 
-//githubtest
+#define hubtest 0
+
 
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
